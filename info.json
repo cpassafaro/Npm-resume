@@ -1,0 +1,24 @@
+{
+    "name": "Christina Passafaro",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/christina-passafaro-899a63a5/",
+    "github": "https://github.com/cpassafaro",
+    "email": "christinapassafaro@gmail.com",
+    "resume": "https://docs.google.com/document/d/1iobIATNAUMyjslP0g1aDJRg8yGrmTECEfmX9ie_xt1w/edit",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "CSS",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress"
+    ],
+    "otherSkills": [
+        "Communication",
+        "Information Technology"
+    ]
+}
